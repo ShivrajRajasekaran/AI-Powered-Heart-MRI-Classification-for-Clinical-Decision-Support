@@ -36,6 +36,14 @@ Here is the end-to-end workflow of our application in action:
 5.  *Results Display:* The user is shown a results page with the diagnosis, the original MRI, and the XAI heatmap displayed side-by-side.
 6.  *Conversational AI:* The user can interact with the integrated *IBM Watsonx Assistant* to ask complex questions of the live database, such as "How many patients are diagnosed as 'Sick'?" or "Summarize the report for patient P-12345."
 
+<img width="1143" height="785" alt="Screenshot 2025-10-11 094258" src="https://github.com/user-attachments/assets/f2e641cb-ccc1-4aca-a9a8-4f25d9aecd21" />
+
+<img width="1807" height="810" alt="Screenshot 2025-10-11 095100" src="https://github.com/user-attachments/assets/4541518f-75af-421f-a0f3-cd2ae051c2b3" />
+
+<img width="1418" height="717" alt="Screenshot 2025-10-03 223856" src="https://github.com/user-attachments/assets/27d294a9-4b1d-4ee2-9cb0-5041379015c3" />
+
+*Here is the youtube link:*
+https://youtu.be/JMZrROrt5qQ?si=V046ShjApX__89Iv
 ---
 
 ## Key Features
