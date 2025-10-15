@@ -40,6 +40,10 @@ Here is the end-to-end workflow of our application in action:
 
 <img width="1807" height="810" alt="Screenshot 2025-10-11 095100" src="https://github.com/user-attachments/assets/4541518f-75af-421f-a0f3-cd2ae051c2b3" />
 
+<img width="1919" height="975" alt="Screenshot 2025-10-15 131503" src="https://github.com/user-attachments/assets/f164dc9a-12ad-404a-89fe-134522086734" />
+
+<img width="1917" height="962" alt="Screenshot 2025-10-15 131608" src="https://github.com/user-attachments/assets/3ea96283-168d-4851-9437-594c7d21b774" />
+
 <img width="1418" height="717" alt="Screenshot 2025-10-03 223856" src="https://github.com/user-attachments/assets/27d294a9-4b1d-4ee2-9cb0-5041379015c3" />
 
 *Here is the youtube link:*
