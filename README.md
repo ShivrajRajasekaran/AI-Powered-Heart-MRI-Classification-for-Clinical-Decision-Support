@@ -261,7 +261,7 @@ Access the app at **http://localhost:8080**
 - **SHIVRAJ R** — [GitHub profile](https://github.com/ShivrajRajasekaran/)
 - **SRIRAM V** — [GitHub profile](https://github.com/darkwebnew/)
 - **M MADHURI G** — [GitHub profile](https://github.com/Munimadhuriganji)
-- **DARSHANI** — [GitHub profile](https://github.com/Gedipudidarshani)
+- **G DARSHANI** — [GitHub profile](https://github.com/Gedipudidarshani)
 
 *We welcome contributions! Feel free to open issues or submit pull requests.*
 
