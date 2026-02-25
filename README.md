@@ -584,11 +584,6 @@ Full spec → `openapi_spec.json` (importable into Swagger UI / Postman)
 
 *Your support helps build better AI healthcare tools and publish more research.*
 
-<br/>
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/darkwebnew)
-[![PayPal](https://img.shields.io/badge/Donate%20via%20PayPal-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sriramnvks)
-
 </div>
 
 ---
