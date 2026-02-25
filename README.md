@@ -576,7 +576,7 @@ Full spec → `openapi_spec.json` (importable into Swagger UI / Postman)
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/sriramnvks" target="_blank">
+<a href="https://buymeacoffee.com/shivrajr963" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50"/>
 </a>
 
@@ -627,7 +627,7 @@ Full spec → `openapi_spec.json` (importable into Swagger UI / Postman)
 
 Any unauthorized use, reproduction, or clinical deployment is strictly prohibited. The authors reserve all rights.
 
-> Licensing inquiries: [@darkwebnew](https://github.com/darkwebnew) via GitHub Issues
+> Licensing inquiries: [@ShivrajRajasekaran](https://github.com/ShivrajRajasekaran) via GitHub Issues
 
 ---
 
@@ -656,14 +656,14 @@ Any unauthorized use, reproduction, or clinical deployment is strictly prohibite
 
 **⭐ Star this repository if Heart MRI AI helped your project!**
 
-[![GitHub stars](https://img.shields.io/github/stars/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/network/members)
 
 <br/>
 
 *Made with ❤️ for advancing global cardiac care through explainable AI*
 *IBM Z Datathon 2025 🥈 · Saveetha Engineering College · Chennai, India 🇮🇳*
 
-[🐛 Report Bug](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [💡 Request Feature](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [📖 API Docs](openapi_spec.json) · [🎥 Demo](https://youtu.be/JMZrROrt5qQ)
+[🐛 Report Bug](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [💡 Request Feature](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [📖 API Docs](openapi_spec.json) · [🎥 Demo](https://youtu.be/JMZrROrt5qQ)
 
 </div>
