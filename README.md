@@ -100,7 +100,7 @@ Heart MRI AI           →  Sub-2s CNN inference, Grad-CAM heatmaps, IBM Cloud a
 
 </div>
 
-> 📣 **[View our LinkedIn announcement →](https://www.linkedin.com/posts/sriram-v-38305a220_ibmz-mainframe-ibmzdatathon2025-activity-7390066478483685377-KORq)**
+> 📣 **[View our LinkedIn announcement →](https://www.linkedin.com/posts/shivraj-r-18008b290_ibmz-mainframe-ibmzdatathon2025-activity-7390059542253924352-0OxT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZ9kzABbs9OtXSohbCheNyLI8oIXdW5RNg)**
 
 ---
 
