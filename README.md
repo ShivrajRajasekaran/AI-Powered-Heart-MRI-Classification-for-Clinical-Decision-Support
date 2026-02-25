@@ -63,7 +63,7 @@ Heart MRI AI           →  Sub-2s CNN inference, Grad-CAM heatmaps, IBM Cloud a
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/64/heart-with-pulse.png"/>
 <br/><b>4-Class Diagnosis</b>
-<br/><sub>Normal · Myocardial Infarction · DCM · HCM</sub>
+<br/><sub>Normal · Myocardial Infarction · DCM · HCM</sub> 
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/64/heatmap.png"/>
