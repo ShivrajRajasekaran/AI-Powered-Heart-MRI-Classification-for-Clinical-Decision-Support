@@ -182,7 +182,8 @@ Radiologists in busy cardiac centers face mounting backlogs of MRI scans — lea
 
 <div align="center">
 
-![Heart MRI AI Architecture](img/architecture_diagram.png)
+![Heart MRI AI Architecture]<img width="2400" height="1536" alt="architecture_diagram" src="https://github.com/user-attachments/assets/0d6e8b54-b0fa-4b7c-aca1-1988da91babb" />
+
 
 *End-to-end pipeline: MRI upload → CNN → XAI heatmap → IBM COS + Db2 → clinical dashboard*
 
@@ -241,29 +242,41 @@ Clinical Dashboard (graphs.html / Plotly.js)
 
 | Normal Prediction | Sick Prediction |
 |------------------|-----------------|
-| ![Normal](img/Dahboard_Prediction_Normal.jpeg) | ![Sick](img/Dahboard_Prediction_Sick.jpeg) |
+| ![Normal]![Dahboard_Prediction_Normal](https://github.com/user-attachments/assets/6e6a0d25-c840-4bdd-81b8-a781cf9885c3)
+ | ![Sick]![Dahboard_Prediction_Sick](https://github.com/user-attachments/assets/80fee7ef-f63c-47aa-bc6f-cb0ba77d79b5)
+ |
 
 ### 🔍 Core Features
 
 | Upload Interface | Image Segmentation |
 |-----------------|-------------------|
-| ![Upload](img/Dashboard_Upload.jpeg) | ![Seg](img/Image_Segmentation.jpeg) |
+| ![Upload]![Dashboard_Upload](https://github.com/user-attachments/assets/468d22a9-2733-416f-8321-c68cc228e156)
+ | ![Seg]![Image_Segmentation](https://github.com/user-attachments/assets/c9b5bbed-e032-4ca1-963c-c59dad68023f)
+ |
 
 | Medical AI Assistance | XAI Heatmap Output |
 |----------------------|--------------------|
-| ![AI](img/Medical_AI_Assistance.jpeg) | ![Heatmap](img/heatmap-IM12012.jpeg) |
+| ![AI]![Medical_AI_Assistance](https://github.com/user-attachments/assets/3d9089f7-a515-405f-a2ba-93cb7e0c5727)
+ | ![Heatmap]![heatmap-IM12012](https://github.com/user-attachments/assets/c9bd9853-ce50-4b67-b698-6fefc825bdac)
+ |
 
 ### ☁️ IBM Cloud Integration
 
 | IBM Cloud Bucket | IBM Db2 — Results | IBM Db2 — History |
 |-----------------|------------------|------------------|
-| ![COS](img/IBM_Cloud_Bucket.jpeg) | ![Db2R](img/IBM_Db2_Cloud_Result.jpeg) | ![Db2H](img/IBM_Db2_Cloud_History.jpeg) |
+| ![COS]![IBM_Cloud_Bucket](https://github.com/user-attachments/assets/aeff76be-8a5a-46e0-81d4-3f6261303ffd)
+ | ![Db2R]![IBM_Db2_Cloud_Result](https://github.com/user-attachments/assets/b0a7e4e6-090a-46f5-a7ac-b9a759676f19)
+ | ![Db2H]![IBM_Db2_Cloud_History](https://github.com/user-attachments/assets/bc205f5b-7c58-4fdc-8dc1-71485215e18f)
+ |
 
 ### 📊 Training & Evaluation Metrics
 
 | Confusion Matrix | Loss & Accuracy | Precision / Recall / F1 |
 |----------------|----------------|------------------------|
-| ![CM](img/confusion_matrix.png) | ![Loss](img/loss_accuracy.png) | ![F1](img/precision_recall_f1.png) |
+| ![CM]<img width="640" height="480" alt="confusion_matrix" src="https://github.com/user-attachments/assets/d05be90c-3737-4173-b977-4af6716078f3" />
+ | ![Loss]<img width="1000" height="500" alt="loss_accuracy" src="https://github.com/user-attachments/assets/1a2fa1ac-499c-4852-b4b9-ca301e71c637" />
+ | ![F1]<img width="600" height="600" alt="precision_recall_f1" src="https://github.com/user-attachments/assets/3fd2c837-e1fc-4b2f-a2b4-f0e468f6d5a6" />
+ |
 
 </div>
 
