@@ -39,7 +39,7 @@
 
 ## 🎥 Watch the Demo
 
-https://youtu.be/JMZrROrt5qQ?si=iiNgtvYK9nuTp-xT
+[![Watch the demo](img/demo_thumbnail.png)](https://youtu.be/JMZrROrt5qQ)
 
 *Click above — MRI upload → instant classification → explainable AI heatmaps → clinical dashboard*
 
@@ -182,9 +182,7 @@ Radiologists in busy cardiac centers face mounting backlogs of MRI scans — lea
 
 <div align="center">
 
-<img width="2400" height="1536" alt="architecture_diagram" src="https://github.com/user-attachments/assets/5cf0988b-59f2-49ab-9eae-3fd1f78c947a" />
-
-
+![Heart MRI AI Architecture](img/architecture_diagram.png)
 
 *End-to-end pipeline: MRI upload → CNN → XAI heatmap → IBM COS + Db2 → clinical dashboard*
 
