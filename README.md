@@ -63,7 +63,7 @@ Heart MRI AI           →  Sub-2s CNN inference, Grad-CAM heatmaps, IBM Cloud a
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/64/heart-with-pulse.png"/>
 <br/><b>4-Class Diagnosis</b>
-<br/><sub>Normal · Myocardial Infarction · DCM · HCM</sub>
+<br/><sub>Normal · Myocardial Infarction · DCM · HCM</sub> 
 </td>
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/64/heatmap.png"/>
@@ -576,18 +576,13 @@ Full spec → `openapi_spec.json` (importable into Swagger UI / Postman)
 
 <br/>
 
-<a href="https://www.buymeacoffee.com/sriramnvks" target="_blank">
+<a href="https://buymeacoffee.com/shivrajr963" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50"/>
 </a>
 
 <br/><br/>
 
 *Your support helps build better AI healthcare tools and publish more research.*
-
-<br/>
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%23EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/darkwebnew)
-[![PayPal](https://img.shields.io/badge/Donate%20via%20PayPal-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sriramnvks)
 
 </div>
 
@@ -627,7 +622,7 @@ Full spec → `openapi_spec.json` (importable into Swagger UI / Postman)
 
 Any unauthorized use, reproduction, or clinical deployment is strictly prohibited. The authors reserve all rights.
 
-> Licensing inquiries: [@darkwebnew](https://github.com/darkwebnew) via GitHub Issues
+> Licensing inquiries: [@ShivrajRajasekaran](https://github.com/ShivrajRajasekaran) via GitHub Issues
 
 ---
 
@@ -656,14 +651,14 @@ Any unauthorized use, reproduction, or clinical deployment is strictly prohibite
 
 **⭐ Star this repository if Heart MRI AI helped your project!**
 
-[![GitHub stars](https://img.shields.io/github/stars/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support?style=social)](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/network/members)
 
 <br/>
 
 *Made with ❤️ for advancing global cardiac care through explainable AI*
 *IBM Z Datathon 2025 🥈 · Saveetha Engineering College · Chennai, India 🇮🇳*
 
-[🐛 Report Bug](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [💡 Request Feature](https://github.com/Darkwebnew/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [📖 API Docs](openapi_spec.json) · [🎥 Demo](https://youtu.be/JMZrROrt5qQ)
+[🐛 Report Bug](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [💡 Request Feature](https://github.com/ShivrajRajasekaran/AI-Powered-Heart-MRI-Classification-for-Clinical-Decision-Support/issues) · [📖 API Docs](openapi_spec.json) · [🎥 Demo](https://youtu.be/JMZrROrt5qQ)
 
 </div>
